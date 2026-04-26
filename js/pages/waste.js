@@ -1,0 +1,1 @@
+Waste Management System with bin tracking and recycling metrics
